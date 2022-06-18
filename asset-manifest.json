@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/task-timer/static/css/main.7f9a2214.css",
-    "main.js": "/task-timer/static/js/main.a88bd7aa.js",
-    "index.html": "/task-timer/index.html",
-    "main.7f9a2214.css.map": "/task-timer/static/css/main.7f9a2214.css.map",
-    "main.a88bd7aa.js.map": "/task-timer/static/js/main.a88bd7aa.js.map"
+    "main.css": "/habit-app/static/css/main.7f9a2214.css",
+    "main.js": "/habit-app/static/js/main.57319a37.js",
+    "index.html": "/habit-app/index.html",
+    "main.7f9a2214.css.map": "/habit-app/static/css/main.7f9a2214.css.map",
+    "main.57319a37.js.map": "/habit-app/static/js/main.57319a37.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9a2214.css",
-    "static/js/main.a88bd7aa.js"
+    "static/js/main.57319a37.js"
   ]
 }
