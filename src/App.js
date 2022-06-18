@@ -1,6 +1,7 @@
 
 import React from 'react';
 import styled from 'styled-components';
+import Progress from './Pages/Progress';
 
 const AppWrapper = styled.div`
     min-width: 100vw;
@@ -11,8 +12,7 @@ const App = () => {
 
     return (
         <AppWrapper>
-            <h1>yo</h1>
-            <p>im app</p>
+            <Progress />
         </AppWrapper>
     );
 }
